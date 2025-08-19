@@ -1,0 +1,16 @@
+# Go build
+bin/
+dist/
+*.exe
+*.out
+
+# Go modules
+/vendor/
+/.gocache/
+/.gotmp/
+
+# OS/Editor
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
